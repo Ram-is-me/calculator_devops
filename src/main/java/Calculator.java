@@ -28,7 +28,7 @@ public class Calculator {
             } else if (choice.equals("3")) {
                 System.out.println("Enter the number to find Natural Logarithm:");
                 temp = input.nextLine();
-                answer = c.factorial(Double.parseDouble(temp));
+                answer = c.log(Double.parseDouble(temp));
             } else if (choice.equals("4")) {
                 System.out.println("Enter the number to find Power :");
                 System.out.println("Enter the base:");
