@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of calculator-devops
+  hosts: all
+  tasks:
+    - name: Pull calculator devops image
+      docker_image:
+        name: ramisme/calculator-devops
+        source: pull
