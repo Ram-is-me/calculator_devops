@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%F] %-5level %-5level %logger{36} - %msg%n" ></PatternLayout>
+        </Console>
+        <File name="FileAppender" fileName="ScientificCalculator.log" immdediateFlush="false" append="True">
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%F] %-5level %logger{36} -%msg%n" > </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="ConsoleAppender"></AppenderRef>
+            <AppenderRef ref="FileAppender"></AppenderRef>
+        </Root>
+    </Loggers>
+</Configuration>

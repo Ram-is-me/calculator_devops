@@ -1,0 +1,27 @@
+2021-03-16 15:58:46.343 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-16 15:58:56.080 [Calculator.java] INFO  Calculator -Factorial Chosen
+2021-03-16 15:58:59.934 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-16 16:03:20.349 [Calcops.java] INFO  Calculator -Sqrt Calculation
+2021-03-16 16:03:20.355 [Calcops.java] INFO  Calculator -Sqrt Calculation
+2021-03-16 16:03:20.357 [Calcops.java] INFO  Calculator -Sqrt Calculation
+2021-03-16 16:03:20.358 [Calcops.java] INFO  Calculator -Factorial Calculation
+2021-03-16 16:03:20.359 [Calcops.java] INFO  Calculator -Factorial Calculation
+2021-03-16 16:03:20.361 [Calcops.java] INFO  Calculator -Factorial Calculation
+2021-03-16 16:03:20.362 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
+2021-03-16 16:03:20.363 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
+2021-03-16 16:03:20.364 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
+2021-03-16 16:03:20.365 [Calcops.java] INFO  Calculator -Power Calculation
+2021-03-16 16:03:20.366 [Calcops.java] INFO  Calculator -Power Calculation
+2021-03-16 16:03:20.367 [Calcops.java] INFO  Calculator -Power Calculation
+2021-03-16 18:16:26.487 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 18:16:26.522 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 18:16:26.528 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 18:16:26.535 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 18:16:26.539 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 18:16:26.543 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 18:16:26.550 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 18:16:26.551 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 18:16:26.552 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 18:16:26.553 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 18:16:26.554 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 18:16:26.555 [Calcops.java] INFO  Calcops -Power Calculation
