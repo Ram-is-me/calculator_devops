@@ -1,51 +1,316 @@
-2021-03-16 15:58:46.343 [Calculator.java] INFO  Calculator -Welcome Message sent
-2021-03-16 15:58:56.080 [Calculator.java] INFO  Calculator -Factorial Chosen
-2021-03-16 15:58:59.934 [Calculator.java] INFO  Calculator -Exiting Program
-2021-03-16 16:03:20.349 [Calcops.java] INFO  Calculator -Sqrt Calculation
-2021-03-16 16:03:20.355 [Calcops.java] INFO  Calculator -Sqrt Calculation
-2021-03-16 16:03:20.357 [Calcops.java] INFO  Calculator -Sqrt Calculation
-2021-03-16 16:03:20.358 [Calcops.java] INFO  Calculator -Factorial Calculation
-2021-03-16 16:03:20.359 [Calcops.java] INFO  Calculator -Factorial Calculation
-2021-03-16 16:03:20.361 [Calcops.java] INFO  Calculator -Factorial Calculation
-2021-03-16 16:03:20.362 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
-2021-03-16 16:03:20.363 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
-2021-03-16 16:03:20.364 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
-2021-03-16 16:03:20.365 [Calcops.java] INFO  Calculator -Power Calculation
-2021-03-16 16:03:20.366 [Calcops.java] INFO  Calculator -Power Calculation
-2021-03-16 16:03:20.367 [Calcops.java] INFO  Calculator -Power Calculation
-2021-03-16 18:16:26.487 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:16:26.522 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:16:26.528 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:16:26.535 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:16:26.539 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:16:26.543 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:16:26.550 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:16:26.551 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:16:26.552 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:16:26.553 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:16:26.554 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:16:26.555 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:34:26.648 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:34:26.684 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:34:26.685 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:34:26.690 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:34:26.693 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:34:26.694 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:34:26.698 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:34:26.698 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:34:26.699 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:34:26.702 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:34:26.709 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:34:26.710 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:34:26.719 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:34:26.720 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:34:26.722 [Calcops.java] INFO  Calcops -Sqrt Calculation
-2021-03-16 18:34:26.723 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:34:26.732 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:34:26.734 [Calcops.java] INFO  Calcops -Factorial Calculation
-2021-03-16 18:34:26.735 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:34:26.736 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:34:26.737 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
-2021-03-16 18:34:26.738 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:34:26.740 [Calcops.java] INFO  Calcops -Power Calculation
-2021-03-16 18:34:26.741 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:27:55.304 [Calcops.java] INFO  Calculator -Sqrt Calculation
+2021-03-16 23:27:55.313 [Calcops.java] INFO  Calculator -Sqrt Calculation
+2021-03-16 23:27:55.318 [Calcops.java] INFO  Calculator -Sqrt Calculation
+2021-03-16 23:27:55.322 [Calcops.java] INFO  Calculator -Factorial Calculation
+2021-03-16 23:27:55.324 [Calcops.java] INFO  Calculator -Factorial Calculation
+2021-03-16 23:27:55.327 [Calcops.java] INFO  Calculator -Factorial Calculation
+2021-03-16 23:27:55.329 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
+2021-03-16 23:27:55.330 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
+2021-03-16 23:27:55.331 [Calcops.java] INFO  Calculator -Natural Logarithm Calculation
+2021-03-16 23:27:55.332 [Calcops.java] INFO  Calculator -Power Calculation
+2021-03-16 23:27:55.337 [Calcops.java] INFO  Calculator -Power Calculation
+2021-03-16 23:27:55.338 [Calcops.java] INFO  Calculator -Power Calculation
+2021-03-16 23:32:28.977 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-16 23:32:42.736 [Calculator.java] INFO  Calculator -Square Root Chosen
+2021-03-16 23:32:46.152 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:32:49.742 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-16 23:33:32.038 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:33:32.044 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:33:32.045 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:33:32.049 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:33:32.050 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:33:32.051 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:33:32.055 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:33:32.056 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:33:32.057 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:33:32.062 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:33:32.063 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:33:32.064 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:33:32.073 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:33:32.074 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:33:32.085 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:33:32.087 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:33:32.103 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:33:32.104 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:33:32.106 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:33:32.107 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:33:32.110 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:33:32.117 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:33:32.122 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:33:32.122 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:33:54.809 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-16 23:33:58.976 [Calculator.java] INFO  Calculator -Square Root Chosen
+2021-03-16 23:34:01.985 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:34:03.714 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-16 23:36:39.313 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:36:39.318 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:36:39.319 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:36:39.323 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:36:39.324 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:36:39.325 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:36:39.328 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:36:39.329 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:36:39.330 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:36:39.334 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:36:39.335 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:36:39.336 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:36:39.346 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:36:39.347 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:36:39.348 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:36:39.348 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:36:39.349 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:36:39.350 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:36:39.351 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:36:39.352 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:36:39.353 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:36:39.354 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:36:39.355 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:36:39.356 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:37:39.945 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:37:39.952 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:37:39.953 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:37:39.956 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:37:39.957 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:37:39.959 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:37:39.963 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:37:39.964 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:37:39.965 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:37:39.969 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:37:39.970 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:37:39.971 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:37:39.982 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:37:39.983 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:37:39.984 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:37:39.985 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:37:39.986 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:37:39.987 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:37:39.988 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:37:39.989 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:37:39.990 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:37:39.991 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:37:39.992 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:37:39.993 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:40.329 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:40.334 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:40.336 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:40.339 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:40:40.340 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:40:40.341 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:40:40.344 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:40:40.346 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:40:40.347 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:40:40.350 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:40:40.351 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:40:40.352 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:40:40.362 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:40:40.363 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:40:40.364 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:40:40.365 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:40:40.366 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:40:40.367 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:40:40.369 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:40:40.370 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:40:40.371 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:40:40.372 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:40.373 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:40.374 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:40:57.481 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-16 23:41:09.666 [Calculator.java] INFO  Calculator -Square Root Chosen
+2021-03-16 23:41:13.362 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:15.411 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-16 23:41:43.485 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:41:43.490 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:41:43.491 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:41:43.495 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:41:43.496 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:41:43.497 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:41:43.500 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:41:43.501 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:41:43.502 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:41:43.506 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:43.507 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:43.508 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:43.519 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:43.520 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:43.520 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:41:43.521 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:41:43.522 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:41:43.523 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:41:43.524 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:41:43.534 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:41:43.535 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:41:43.537 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:41:43.537 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:41:43.538 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:42:48.567 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-16 23:42:53.611 [Calculator.java] INFO  Calculator -Factorial Chosen
+2021-03-16 23:42:55.160 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:42:57.460 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-16 23:43:58.863 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:43:58.871 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:43:58.872 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:43:58.876 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:43:58.877 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:43:58.878 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:43:58.881 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:43:58.882 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:43:58.884 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:43:58.887 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:43:58.889 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:43:58.890 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:43:58.898 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:43:58.899 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:43:58.900 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:43:58.901 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:43:58.902 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:43:58.903 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:43:58.904 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:43:58.908 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:43:58.909 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:43:58.910 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:43:58.911 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:43:58.912 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:51:38.387 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:51:38.393 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:51:38.394 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:51:38.398 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:51:38.399 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:51:38.409 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:51:38.413 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:51:38.414 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:51:38.415 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:51:38.418 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:51:38.419 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:51:38.421 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:51:38.431 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:51:38.433 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:51:38.434 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-16 23:51:38.435 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:51:38.436 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:51:38.437 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-16 23:51:38.438 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:51:38.448 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:51:38.449 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-16 23:51:38.451 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:51:38.452 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-16 23:51:38.453 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:01:44.015 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:01:44.020 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:01:44.021 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:01:44.025 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:01:44.026 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:01:44.027 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:01:44.030 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:01:44.031 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:01:44.032 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:01:44.036 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:01:44.037 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:01:44.038 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:01:44.057 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:01:44.059 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:01:44.059 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:01:44.061 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:01:44.062 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:01:44.062 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:01:44.063 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:01:44.064 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:01:44.065 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:01:44.066 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:01:44.067 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:01:44.068 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:02:49.661 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-17 00:02:53.041 [Calculator.java] INFO  Calculator -Factorial Chosen
+2021-03-17 00:02:54.322 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:02:56.082 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-17 00:03:29.488 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:03:29.497 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:03:29.499 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:03:29.500 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:03:29.501 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:03:29.502 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:03:29.503 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:03:29.504 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:03:29.505 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:03:29.506 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:03:29.507 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:03:29.508 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:07:30.420 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:07:30.425 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:07:30.426 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:07:30.430 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:07:30.431 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:07:30.431 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:07:30.435 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:07:30.436 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:07:30.436 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:07:30.439 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:07:30.440 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:07:30.441 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:07:30.450 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:07:30.452 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:07:30.452 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:07:30.454 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:07:30.455 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:07:30.455 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:07:30.456 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:07:30.457 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:07:30.457 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:07:30.458 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:07:30.459 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:07:30.460 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:04.919 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:04.926 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:04.927 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:04.930 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:11:04.931 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:11:04.932 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:11:04.936 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:11:04.937 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:11:04.937 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:11:04.941 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:04.941 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:04.942 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:04.951 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:04.952 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:04.953 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:04.954 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:11:04.955 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:11:04.956 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:11:04.956 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:11:04.957 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:11:04.958 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:11:04.958 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:04.959 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:04.959 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:11:34.590 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-17 00:11:39.674 [Calculator.java] INFO  Calculator -Square Root Chosen
+2021-03-17 00:11:41.371 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:11:42.561 [Calculator.java] INFO  Calculator -Exiting Program
+2021-03-17 00:12:38.152 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:12:38.157 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:12:38.158 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:12:38.160 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:12:38.161 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:12:38.162 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:12:38.164 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:12:38.165 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:12:38.166 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:12:38.169 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:12:38.169 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:12:38.170 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:12:38.178 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:12:38.178 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:12:38.179 [Calcops.java] INFO  Calcops -Sqrt Calculation
+2021-03-17 00:12:38.179 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:12:38.180 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:12:38.181 [Calcops.java] INFO  Calcops -Factorial Calculation
+2021-03-17 00:12:38.181 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:12:38.181 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:12:38.182 [Calcops.java] INFO  Calcops -Natural Logarithm Calculation
+2021-03-17 00:12:38.183 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:12:38.183 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:12:38.184 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:13:01.326 [Calculator.java] INFO  Calculator -Welcome Message sent
+2021-03-17 00:13:03.170 [Calculator.java] INFO  Calculator -Power Chosen
+2021-03-17 00:13:05.579 [Calcops.java] INFO  Calcops -Power Calculation
+2021-03-17 00:13:07.585 [Calculator.java] INFO  Calculator -Exiting Program
